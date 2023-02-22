@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

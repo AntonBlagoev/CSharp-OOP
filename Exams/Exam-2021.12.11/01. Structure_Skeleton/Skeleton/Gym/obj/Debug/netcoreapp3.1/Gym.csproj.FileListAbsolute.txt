@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.11\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+Exam
+01. Structure
+- private set
+Egg PresentName2 is done.
+- protected set += virtual method
+
+- ctor must follow correct order
+- correct Exception
+- Initialize all collections!!!
+
+02. BL
+- uncomment Controller class in Engine.cs
+- implement IController
+- check for correct output messages
+
+03. Tests
+- ctor
+- private are tested via public

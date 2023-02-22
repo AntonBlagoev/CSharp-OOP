@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.exe
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.deps.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.genruntimeconfig.cache

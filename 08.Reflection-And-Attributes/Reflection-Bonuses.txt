@@ -1,0 +1,8 @@
+public static object CreateObjectByType(Type type)
+{
+	Object createObj = Activator.CreateInstance(type);
+	return createObj;
+}
+
+Kris pass
+h3Dj0eJBOl

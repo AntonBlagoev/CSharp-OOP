@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.exe
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.deps.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.genruntimeconfig.cache

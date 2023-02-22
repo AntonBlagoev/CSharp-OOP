@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\bin\Debug\netcoreapp3.1\01.Stealer.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\01.Stealer\obj\Debug\netcoreapp3.1\01.Stealer.genruntimeconfig.cache

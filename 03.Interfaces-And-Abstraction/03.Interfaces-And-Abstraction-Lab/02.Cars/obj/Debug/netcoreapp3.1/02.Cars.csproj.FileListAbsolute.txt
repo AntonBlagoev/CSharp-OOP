@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache

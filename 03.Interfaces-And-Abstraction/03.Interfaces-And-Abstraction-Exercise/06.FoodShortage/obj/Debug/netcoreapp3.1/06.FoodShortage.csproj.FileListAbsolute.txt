@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache

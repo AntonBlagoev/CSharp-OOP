@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache

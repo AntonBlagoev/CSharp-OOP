@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.genruntimeconfig.cache

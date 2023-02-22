@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.08.22\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache

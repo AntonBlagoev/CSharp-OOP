@@ -1,0 +1,10 @@
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

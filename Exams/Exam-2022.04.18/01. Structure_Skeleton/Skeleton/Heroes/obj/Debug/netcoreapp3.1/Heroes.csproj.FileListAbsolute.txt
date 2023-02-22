@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.18\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

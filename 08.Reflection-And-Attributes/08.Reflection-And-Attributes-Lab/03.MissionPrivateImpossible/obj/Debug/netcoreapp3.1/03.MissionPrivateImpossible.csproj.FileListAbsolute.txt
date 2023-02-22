@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

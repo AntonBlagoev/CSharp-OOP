@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.genruntimeconfig.cache

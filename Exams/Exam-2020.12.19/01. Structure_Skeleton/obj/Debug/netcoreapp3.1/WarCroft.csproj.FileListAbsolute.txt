@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.19\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQ19vEIqya2ZgmHlsOkYfJq1TXvIt1q//Xp/t82KxNTOFrV5xN16XvXeF/3+e4qaPfOpPF1N6Zzd67lpoN6uiQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\SoftUni\\CSharp-OOP\\10.Mocking-And-Test-Driven-Development\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

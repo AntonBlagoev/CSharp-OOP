@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.12.20\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache

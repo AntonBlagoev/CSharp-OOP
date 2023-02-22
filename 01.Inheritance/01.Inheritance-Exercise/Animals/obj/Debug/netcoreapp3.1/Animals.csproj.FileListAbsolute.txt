@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

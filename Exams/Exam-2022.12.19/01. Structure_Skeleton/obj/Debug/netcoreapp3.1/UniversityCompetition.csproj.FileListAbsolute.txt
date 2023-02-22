@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.exe
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.deps.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\UniversityCompetition.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Retake\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\UniversityCompetition.genruntimeconfig.cache

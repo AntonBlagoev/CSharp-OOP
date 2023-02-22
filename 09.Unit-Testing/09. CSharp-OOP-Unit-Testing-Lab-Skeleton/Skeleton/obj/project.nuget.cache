@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1qcIJckiqqVY1emEGNq82AaJhFEHNW6c+4zblL3itUJFoMAQ1o9DBOE1P6ZlXOyMYJ5N51EBzACrwTc3Smlng==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\SoftUni\\CSharp-OOP\\09.Unit-Testing\\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

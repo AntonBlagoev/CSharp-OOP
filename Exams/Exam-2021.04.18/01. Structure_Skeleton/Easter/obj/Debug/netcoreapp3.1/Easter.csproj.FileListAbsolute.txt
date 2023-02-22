@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.04.18\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

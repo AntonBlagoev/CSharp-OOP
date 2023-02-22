@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Dev\SoftUni\CSharp-OOP\09.Unit-Testing\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

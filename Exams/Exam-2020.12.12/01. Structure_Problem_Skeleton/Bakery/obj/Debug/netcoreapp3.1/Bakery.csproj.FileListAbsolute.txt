@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2020.12.12\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

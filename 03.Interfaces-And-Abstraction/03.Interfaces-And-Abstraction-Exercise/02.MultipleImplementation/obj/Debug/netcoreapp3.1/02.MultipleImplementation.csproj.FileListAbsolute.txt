@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.genruntimeconfig.cache

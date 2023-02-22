@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\bin\Debug\netcoreapp3.1\02.HighQualityMistakes.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-And-Attributes-Lab\02.HighQualityMistakes\obj\Debug\netcoreapp3.1\02.HighQualityMistakes.genruntimeconfig.cache

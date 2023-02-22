@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.exe
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.deps.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.dll
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.pdb
+D:\Dev\SoftUni\CSharp-OOP\02.Encapsulation\02.Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.genruntimeconfig.cache

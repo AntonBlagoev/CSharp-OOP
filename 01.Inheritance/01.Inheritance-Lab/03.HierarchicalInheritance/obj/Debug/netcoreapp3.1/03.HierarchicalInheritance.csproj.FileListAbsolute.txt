@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.exe
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.deps.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+D:\Dev\SoftUni\CSharp-OOP\01.Inheritance\01.Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache

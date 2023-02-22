@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache

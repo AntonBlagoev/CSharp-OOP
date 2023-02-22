@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2021.08.22\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

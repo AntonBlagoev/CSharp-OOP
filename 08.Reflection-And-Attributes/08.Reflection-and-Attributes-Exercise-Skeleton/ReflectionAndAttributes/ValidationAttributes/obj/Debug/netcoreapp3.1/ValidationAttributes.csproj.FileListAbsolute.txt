@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Dev\SoftUni\CSharp-OOP\08.Reflection-And-Attributes\08.Reflection-and-Attributes-Exercise-Skeleton\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache

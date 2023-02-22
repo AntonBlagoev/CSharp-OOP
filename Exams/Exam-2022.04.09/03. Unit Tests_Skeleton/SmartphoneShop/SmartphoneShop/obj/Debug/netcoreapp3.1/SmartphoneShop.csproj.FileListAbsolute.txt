@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\Dev\SoftUni\CSharp-OOP\ExamPreparation\Exam-2022.04.09\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.exe
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.deps.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.dll
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\Dev\SoftUni\CSharp-OOP\03.Interfaces-And-Abstraction\03.Interfaces-And-Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.genruntimeconfig.cache

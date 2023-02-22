@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\Dev\SoftUni\CSharp-OOP\Exam-Regular\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache
